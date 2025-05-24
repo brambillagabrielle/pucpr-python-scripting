@@ -1,11 +1,13 @@
-# 5. Implemente um programa que leia o destino do passageiro, se a viagem inclui retorno
-# (ida e volta) e informar o preço da passagem conforme a tabela a seguir:
-# Condição              Ida         Ida e volta
-# Região Norte          R$ 500,00   R$ 900,00
-# Região Nordeste       R$ 350,00   R$ 650,00
-# Região Centro-Oeste   R$ 350,00   R$ 600,00
-# Região Sul            R$ 300,00   R$ 550,00
-
+"""
+5. Implemente um programa que leia o destino do passageiro, se a viagem inclui retorno
+(ida e volta) e informar o preço da passagem conforme a tabela a seguir:
+ Condição              Ida         Ida e volta
+ Região Norte          R$ 500,00   R$ 900,00
+ Região Nordeste       R$ 350,00   R$ 650,00
+ Região Centro-Oeste   R$ 350,00   R$ 600,00
+ Região Sul            R$ 300,00   R$ 550,00
+"""
+ 
 print("""
 ** REGIÕES DE DESTINO **
     Norte = NO

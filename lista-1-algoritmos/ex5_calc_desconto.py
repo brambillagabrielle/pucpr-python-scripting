@@ -1,5 +1,7 @@
-# 5. Estender o exercício 4 anterior informando que para pagamento à vista tem
-# 15% de desconto, calculando e exibindo este valor.
+"""
+5. Estender o exercício 4 anterior informando que para pagamento à vista tem
+15% de desconto, calculando e exibindo este valor.
+"""
 
 nome_produto = input("Insira o nome do produto: ")
 valor_produto = float(input("Insira o valor do produto: "))

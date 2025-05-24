@@ -1,6 +1,8 @@
-# 3. Elaborar um algoritmo que solicita ao usuário o nome de uma disciplina e suas
-# 4 notas bimestrais. O algoritmo deve calcular a média destas notas, e uma
-# mensagem informando que a média da disciplina nome é média.
+"""
+3. Elaborar um algoritmo que solicita ao usuário o nome de uma disciplina e suas
+4 notas bimestrais. O algoritmo deve calcular a média destas notas, e uma
+mensagem informando que a média da disciplina nome é média.
+"""
 
 nome_disciplina = input("Insira o nome da disciplina: ")
 

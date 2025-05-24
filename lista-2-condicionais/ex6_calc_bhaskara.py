@@ -1,6 +1,8 @@
-# 6. Implemente um programa para calcular as raízes de uma equação do 2º grau, sendo que
-# os valores dos coeficientes A, B, e C devem ser fornecidos pelo usuário, e os valores das
-# raízes devem ser calculadas pela fórmula de Bhaskara,
+"""
+6. Implemente um programa para calcular as raízes de uma equação do 2º grau, sendo que
+os valores dos coeficientes A, B, e C devem ser fornecidos pelo usuário, e os valores das
+raízes devem ser calculadas pela fórmula de Bhaskara,
+"""
 
 a = int(input("Insira o valor do coeficiente a = "))
 b = int(input("Insira o valor do coeficiente b = "))

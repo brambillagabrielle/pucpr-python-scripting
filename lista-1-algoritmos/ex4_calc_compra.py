@@ -1,5 +1,7 @@
-# 4. Elaborar um algoritmo que solicita o nome de um produto, seu valor e
-# quantidade, informando o valor de compra calculado.
+"""
+4. Elaborar um algoritmo que solicita o nome de um produto, seu valor e
+quantidade, informando o valor de compra calculado.
+"""
 
 nome_produto = input("Insira o nome do produto: ")
 valor_produto = float(input("Insira o valor do produto: "))

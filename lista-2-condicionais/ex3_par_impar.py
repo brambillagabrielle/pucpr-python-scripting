@@ -1,8 +1,10 @@
-# 3. Criar um jogo de par ou ímpar, onde dois jogadores entram com seu palpite (par ou
-# ímpar) e seus valores de 1 a 5. Tomar por base os nomes: Jogador 1 e Jogador 2. Caso
-# um dos valores esteja fora dos parâmetros informados, mostrar uma mensagem
-# informando que esta rodada não valeu. Caso contrário, informa qual jogador ganhou esta
-# rodada.
+"""
+3. Criar um jogo de par ou ímpar, onde dois jogadores entram com seu palpite (par ou
+ímpar) e seus valores de 1 a 5. Tomar por base os nomes: Jogador 1 e Jogador 2. Caso
+um dos valores esteja fora dos parâmetros informados, mostrar uma mensagem
+informando que esta rodada não valeu. Caso contrário, informa qual jogador ganhou esta
+rodada.
+"""
 
 print("""
 ** PALPITES **
