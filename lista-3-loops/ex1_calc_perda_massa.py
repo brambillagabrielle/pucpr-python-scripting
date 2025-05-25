@@ -9,7 +9,7 @@ while True:
     try:
         massa_inicial = float(input("Insira a massa inicial do material (gramas): "))
     except:
-        print(f"Erro encontrado na leitura da massa do material! Tente novamente.")
+        print("Erro encontrado na leitura da massa do material! Tente novamente.")
 
     if massa_inicial <= 0:
         print("Massa inserida é menor ou igual a 0! Tente novamente.")
