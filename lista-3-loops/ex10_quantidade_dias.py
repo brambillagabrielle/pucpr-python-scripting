@@ -3,13 +3,17 @@
 consideração os anos bissextos).
 """
 
-dia_1 = int(input("Insira a dia (1-31) da data 1: "))
-mes_1 = int(input("Insira o mês (1-12) da data 1: "))
-ano_1 = int(input("Insira o ano (1000+) da data 1: "))
+try:
+    dia_1 = int(input("Insira a dia (1-31) da data 1: "))
+    mes_1 = int(input("Insira o mês (1-12) da data 1: "))
+    ano_1 = int(input("Insira o ano (1000+) da data 1: "))
 
-dia_2 = int(input("Insira a dia (1-31) da data 2: "))
-mes_2 = int(input("Insira o mês (1-12) da data 2: "))
-ano_2 = int(input("Insira o ano (1000+) da data 2: "))
+    dia_2 = int(input("Insira a dia (1-31) da data 2: "))
+    mes_2 = int(input("Insira o mês (1-12) da data 2: "))
+    ano_2 = int(input("Insira o ano (1000+) da data 2: "))
+except:
+    print("Dia, mês e/ou ano inseridos são inválidos!")
+    exit(1)
 
 cont_dias = 0
 
